@@ -19,81 +19,81 @@ msgstr ""
 
 #: builtin/checkout.c:43
 msgid "git checkout [<options>] <branch>"
-msgstr ""
+msgstr "git checkout [<funksjonsvalg>] <gren>"
 
 #: builtin/checkout.c:44
 msgid "git checkout [<options>] [<branch>] -- <file>..."
-msgstr ""
+msgstr "git checkout [<funksjonsvalg>] [<gren>] -- <fil>..."
 
 #: builtin/checkout.c:49
 msgid "git switch [<options>] [<branch>]"
-msgstr ""
+msgstr "git switch [<funksjonsvalg>] [<gren>]"
 
 #: builtin/checkout.c:54
 msgid "git restore [<options>] [--source=<branch>] <file>..."
-msgstr ""
+msgstr "git restore [<funksjonsvalg>] [--source=<gren>] <fil>..."
 
 #: builtin/checkout.c:209 builtin/checkout.c:248
 #, c-format
 msgid "path '%s' does not have our version"
-msgstr ""
+msgstr "bane '%s' har ikke vår versjon"
 
 #: builtin/checkout.c:211 builtin/checkout.c:250
 #, c-format
 msgid "path '%s' does not have their version"
-msgstr ""
+msgstr "bane '%s' har ikke deres versjon"
 
 #: builtin/checkout.c:227
 #, c-format
 msgid "path '%s' does not have all necessary versions"
-msgstr ""
+msgstr "bane '%s' har ikke alle nødvendige versjoner"
 
 #: builtin/checkout.c:281
 #, c-format
 msgid "path '%s' does not have necessary versions"
-msgstr ""
+msgstr "bane '%s' har ikke nødvendige versjoner"
 
 #: builtin/checkout.c:301
 #, c-format
 msgid "path '%s': cannot merge"
-msgstr ""
+msgstr "bane '%s': kan ikke flettes"
 
 #: builtin/checkout.c:317
 #, c-format
 msgid "Unable to add merge result for '%s'"
-msgstr ""
+msgstr "Kan ikke legge til fletteresultat for '%s'"
 
 #: builtin/checkout.c:321 builtin/reset.c:179
 #, c-format
 msgid "make_cache_entry failed for path '%s'"
-msgstr ""
+msgstr "make_cache_entry mislyktes for banen '%s'"
 
 #: builtin/checkout.c:434
 #, c-format
 msgid "Recreated %d merge conflict"
 msgid_plural "Recreated %d merge conflicts"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Gjenskapte %d flettekonflikt"
+msgstr[1] "Gjenskapte %d flettekonflikter"
 
 #: builtin/checkout.c:439
 #, c-format
 msgid "Updated %d path from %s"
 msgid_plural "Updated %d paths from %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Oppdaterte %d bane fra %s"
+msgstr[1] "Oppdaterte %d baner fra %s"
 
 #: builtin/checkout.c:446
 #, c-format
 msgid "Updated %d path from the index"
 msgid_plural "Updated %d paths from the index"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Oppdaterte %d bane fra indeksen"
+msgstr[1] "Oppdaterte %d baner fra indeksen"
 
 #: builtin/checkout.c:469 builtin/checkout.c:472 builtin/checkout.c:475
 #: builtin/checkout.c:479
 #, c-format
 msgid "'%s' cannot be used with updating paths"
-msgstr ""
+msgstr "'%s' kan ikke brukes ved oppdatering av baner"
 
 #: builtin/checkout.c:482 builtin/checkout.c:485 builtin/checkout.c:1742
 #: builtin/checkout.c:1852 builtin/checkout.c:1855 builtin/clone.c:974
